@@ -1,2 +1,4 @@
 This is my text-file. 
-I added this line via Git interface on desktop.
+I added this line via Git interface on desktop. 
+
+GUI?
