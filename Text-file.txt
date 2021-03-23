@@ -2,3 +2,6 @@ This is my text-file.
 I added this line via Git interface on desktop. 
 
 GUI?
+
+Will push it to the Remote Repo. 
+Will remove it.
